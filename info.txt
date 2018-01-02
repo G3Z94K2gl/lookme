@@ -1,6 +1,6 @@
 #enable=true;
 6
-https://github.com/G3Z94K2gl/lookme/blob/master/app-release.apk
+https://raw.githubusercontent.com/G3Z94K2gl/lookme/master/app-release.apk
 1元起 qq:1440829328
 sails.sid=s%3AYggF8xC2p7emoKNFULtL06HWzMGEj9EY.BbAxvu1N7yOgtyAz6GvBjTzhBzLvxYWqejI5UWwehK4; Path=/; Expires=Sun, 31 Dec 2018 05:08:57 GMT; HttpOnly
 ef2a048ff991bc1f5642fbf0faab0e1f
